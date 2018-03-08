@@ -15,6 +15,8 @@ Gem::Specification.new do |s|
   s.homepage      = 'https://github.com/mtgrosser/buble-source'
 
   s.files = ['LICENSE',
+             'lib/buble/source.rb',
+             'lib/buble/source/version.rb',
              'lib/buble.js']
              
   s.add_development_dependency 'bundler', '~> 1.16'
