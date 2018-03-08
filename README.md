@@ -1,8 +1,6 @@
 # Buble::Source
 
-JS source for the blazing fast, batteries-included ES2015 compiler:
-
-* Try it out at [buble.surge.sh](https://buble.surge.sh)
+JS source for the [blazing fast, batteries-included ES2015 compiler](https://buble.surge.sh)
 
 ## Usage
 
@@ -16,4 +14,4 @@ Buble::Source.code
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/buble-source.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mtgrosser/buble-source.
